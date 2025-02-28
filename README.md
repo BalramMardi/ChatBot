@@ -94,11 +94,6 @@ A React-based chatbot application designed to provide guidance on how to use var
 
 ```
 
-### 🙏 Acknowledgments
-
-Special thanks to Zeotap for the opportunity to build this project.
-Inspired by the need for better documentation and guidance in the CDP space.
-
 ### 📬 Contact
 
 For questions, feedback, or contributions, feel free to reach out:
